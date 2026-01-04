@@ -1,8 +1,6 @@
 # audits-by-s4bot3ur
 This repository contains audit reports made by me
 
-## code4rena
-
 |Contest Name                                                                          | platform  | High | Medium | Low | Note(if Any)               |
 |--------------------------------------------------------------------------------------|-----------|------|--------|-----|----------------------------|
 |[2025-01-next-gen](#2025-01-next-gen)                                                 | code4rena |  1   |   0    |  0  |             NA             |
