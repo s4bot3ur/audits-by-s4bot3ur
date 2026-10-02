@@ -8,7 +8,8 @@ This repository contains audit reports made by me
 |[2025-11-stNXM-By-EaseDefi](#2025-11-stnxm-by-easedefi)                               | sherlock  |  1   |   0    |  0  |             NA             | 
 |2025-11-Alignerz                                                                      | dualguard |  9   |   4    |  2  | Report Yet To Be Published |
 |[2025-11-sukukfi](#2025-11-sukukfi)                                                   | code4rena |  1   |   2    |  0  | N/A                        |
-|**TOTAL**                                                                             |    -      |  **12**  |   **7**    |  **2**  |             **NA**            |
+|[2026-07-0xMarkets]                                                                   | hackenproof |  2   |   3    |  0  | N/A                        |
+|**TOTAL**                                                                             |    -      |  **14**  |   **10**    |  **2**  |             **NA**            |
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
